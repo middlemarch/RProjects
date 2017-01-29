@@ -6,7 +6,7 @@ library(RColorBrewer)
 library(viridis)
 library(ggthemes)
 
-data <- read.csv("C:/Users/rtfly/Documents/HDip/ProgrammingBD/2016NCS.csv", header = TRUE, sep=",")
+data <- read.csv("~/2016NCS.csv", header = TRUE, sep=",")
 
 fix(data)
 
